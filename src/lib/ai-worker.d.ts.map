@@ -1,0 +1,1 @@
+{"version":3,"file":"ai-worker.d.ts","sourceRoot":"","sources":["ai-worker.ts"],"names":[],"mappings":"AAGA,qBAAa,QAAQ;IACnB,OAAO,CAAC,aAAa,CAAS;gBAElB,aAAa,EAAE,MAAM;IAIjC;;OAEG;IACG,cAAc,CAAC,WAAW,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,CAAC;IAcvD;;OAEG;IACG,uBAAuB,CAAC,OAAO,EAAE,GAAG,GAAG,OAAO,CAAC,MAAM,EAAE,CAAC;CAO/D"}
