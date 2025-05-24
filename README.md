@@ -166,24 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Powered by [Firebase](https://firebase.google.com/)
 - Styled with [TailwindCSS](https://tailwindcss.com/)
 
-## 🔮 Roadmap
-
-### Pending Features
-
-- Implement user authentication and authorization system [HIGH] [FEATURE] [8h] [files: src/auth/AuthProvider.tsx, src/auth/hooks/useAuth.ts, src/pages/login.tsx] [tests: should authenticate users, should handle invalid credentials, should maintain session] [commands: npm test src/auth/*, npm run lint]
-
-- Add real-time collaboration features [MEDIUM] [FEATURE] [12h] [files: src/components/Collaboration.tsx, src/hooks/useRealtimeSync.ts] [tests: should sync data in real-time, should handle offline mode, should resolve conflicts] [commands: npm test src/components/Collaboration.test.tsx]
-
-- Enhance AI task suggestions with machine learning [HIGH] [IMPROVEMENT] [16h] [files: src/services/ai/TaskSuggestion.ts, src/ml/TaskPredictor.ts] [tests: should predict next tasks accurately, should learn from user patterns] [commands: npm run train-model, npm test src/services/ai/*]
-
-- Integrate with GitHub, GitLab, and Bitbucket [MEDIUM] [FEATURE] [10h] [files: src/integrations/vcs/*.ts] [tests: should fetch repositories, should sync issues, should handle webhooks] [commands: npm test src/integrations/vcs]
-
-- Develop cross-platform mobile application [HIGH] [FEATURE] [40h] [files: mobile/*, src/api/mobile/*] [tests: should work offline, should sync with main app, should handle notifications] [commands: cd mobile && npm test]
-
-- Create comprehensive API documentation [MEDIUM] [DOCUMENTATION] [6h] [files: docs/api/*, src/types/api.ts] [tests: should validate OpenAPI spec] [commands: npm run generate-docs, npm run validate-api]
-
-- Build advanced reporting and analytics dashboard [LOW] [FEATURE] [20h] [files: src/components/Analytics/*, src/services/reporting/*] [tests: should generate accurate reports, should export in multiple formats] [commands: npm test src/components/Analytics]
-
 ## 📞 Support
 
 For support, email support@taskforge.com or join our Slack channel.
